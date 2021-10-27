@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RubikCubed, I’m a Linux SysAdmin and Developer
-- 👀 I'm interested in the functional programming paradigm
+- 👀 I'm interested in functional programming
 - 🌱 I’m currently learning Haskell
